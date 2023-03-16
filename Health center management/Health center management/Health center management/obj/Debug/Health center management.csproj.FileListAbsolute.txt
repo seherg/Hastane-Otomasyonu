@@ -1,0 +1,184 @@
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\Health center management.exe.config
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\Health center management.exe
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\Health center management.pdb
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\Guna.UI2.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health center management.csprojAssemblyReference.cache
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Properties.Resources.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health center management.csproj.GenerateResource.cache
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health center management.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health center management.csproj.CopyComplete
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health center management.exe
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health center management.pdb
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\Guna.UI.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_login.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Strart.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health center management.exe.licenses
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Signup.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_home.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Edit_information.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Make_an_appointment.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\Health center management.exe.config
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\Health center management.exe
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\Health center management.pdb
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.csprojAssemblyReference.cache
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Edit_information.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_home.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_login.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Make_an_appointment.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Signup.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Strart.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Properties.Resources.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.csproj.GenerateResource.cache
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.exe.licenses
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.csproj.CopyComplete
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.exe
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.pdb
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_vaccination.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_randevum.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Doctor.resources
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Ahmed Asaad Hammoud\Desktop\N2\Health center management\Health center management\Health center management\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.csprojAssemblyReference.cache
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Doctor.resources
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Edit_information.resources
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_home.resources
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_login.resources
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Make_an_appointment.resources
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_randevum.resources
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Signup.resources
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Strart.resources
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_vaccination.resources
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Properties.Resources.resources
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.csproj.GenerateResource.cache
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.exe.licenses
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.csproj.CoreCompileInputs.cache
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.exe
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.pdb
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\Health center management.exe.config
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\Health center management.exe
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\Health center management.pdb
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Seher\OneDrive\Masaüstü\N2\Health center management\Health center management\Health center management\obj\Debug\Health center management.csproj.CopyComplete
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health center management.csprojAssemblyReference.cache
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Doctor.resources
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Edit_information.resources
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_home.resources
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_login.resources
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Make_an_appointment.resources
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Signup.resources
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_Strart.resources
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Frm_vaccination.resources
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health_center_management.Properties.Resources.resources
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health center management.csproj.GenerateResource.cache
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health center management.exe.licenses
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health center management.csproj.CoreCompileInputs.cache
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health center management.exe
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health center management.pdb
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\bin\Debug\Health center management.exe.config
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\bin\Debug\Health center management.exe
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\bin\Debug\Health center management.pdb
+C:\Users\Seher\OneDrive\Masaüstü\Otomasyon\Health center management\Health center management\Health center management\obj\Debug\Health center management.csproj.CopyComplete
